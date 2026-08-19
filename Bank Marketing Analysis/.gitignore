@@ -1,0 +1,19 @@
+# R Files: 
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# R Profile
+.Rprofile
+
+# Data
+data/
+
+#renv
+renv/library/
+renv/local/
+renv/sandbox/
+renv/staging/
