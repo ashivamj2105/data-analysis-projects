@@ -10,3 +10,7 @@ Dataset: Kaggle
 ICC Women's T20 World Cup: 
 I have used ball-by-ball data in from cricsheet.org. The dataset consist of 168 JSON files which I have parsed through a script into a single Parquet file.
 It consists of data from 7 editions of the ICC Women's T20 World Cups.
+
+Bank Marketing Analysis(Using R)
+Data: UCI Bank Marketing Dataset
+Analyzing the data on different characteristics like age, education to check whether customers subscribe to term/fixed deposit.
