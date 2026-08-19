@@ -1,6 +1,6 @@
 # PROBLEM STATEMENT
 # The objective is to explore the data and 
-# predict if a bank customer will subscribe to a term/savings deposit based on
+# predict if a bank customer will subscribe to a term/fixed deposit based on
 # demographic, financial and campaign related characteristics
 
 
